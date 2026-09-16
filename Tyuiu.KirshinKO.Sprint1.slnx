@@ -9,7 +9,11 @@
     <Project Path="Tyuiu.KirshinKO.Sprint1.Task1.V8.Test/Tyuiu.KirshinKO.Sprint1.Task1.V8.Test.csproj" />
     <Project Path="Tyuiu.KirshinKO.Sprint1.Task1.V8/Tyuiu.KirshinKO.Sprint1.Task1.V8.csproj" />
   </Folder>
-  <Folder Name="/Task2/" />
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.KirshinKO.Sprint1.Task2.V8.Lib/Tyuiu.KirshinKO.Sprint1.Task2.V8.Lib.csproj" Id="1879577d-929f-43af-b893-75418eaf9950" />
+    <Project Path="Tyuiu.KirshinKO.Sprint1.Task2.V8.Test/Tyuiu.KirshinKO.Sprint1.Task2.V8.Test.csproj" Id="c1f2cd35-3718-46ff-aeb2-3731d216b365" />
+    <Project Path="Tyuiu.KirshinKO.Sprint1.Task2.V8/Tyuiu.KirshinKO.Sprint1.Task2.V8.csproj" Id="8e8737d6-94bb-4466-9863-b8e5bea2ccd8" />
+  </Folder>
   <Folder Name="/Task3/" />
   <Folder Name="/Task4/" />
   <Folder Name="/Task5/" />
