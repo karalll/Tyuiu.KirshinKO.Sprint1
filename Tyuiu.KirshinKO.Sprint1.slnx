@@ -4,4 +4,15 @@
     <Project Path="Tyuiu.KirshinKO.Sprint1.Task0.V5.Test/Tyuiu.KirshinKO.Sprint1.Task0.V5.Test.csproj" />
     <Project Path="Tyuiu.KirshinKO.Sprint1.Task0.V5/Tyuiu.KirshinKO.Sprint1.Task0.V5.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.KirshinKO.Sprint1.Task1.V8.Lib/Tyuiu.KirshinKO.Sprint1.Task1.V8.Lib.csproj" />
+    <Project Path="Tyuiu.KirshinKO.Sprint1.Task1.V8.Test/Tyuiu.KirshinKO.Sprint1.Task1.V8.Test.csproj" />
+    <Project Path="Tyuiu.KirshinKO.Sprint1.Task1.V8/Tyuiu.KirshinKO.Sprint1.Task1.V8.csproj" />
+  </Folder>
+  <Folder Name="/Task2/" />
+  <Folder Name="/Task3/" />
+  <Folder Name="/Task4/" />
+  <Folder Name="/Task5/" />
+  <Folder Name="/Task6/" />
+  <Folder Name="/Task7/" />
 </Solution>
